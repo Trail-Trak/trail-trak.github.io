@@ -1,0 +1,15 @@
+{
+  "name": "trailtrak",
+  "private": true,
+  "type": "module",
+  "description": "San Diego run club trail map with a twice-daily Instagram + OCR refresh",
+  "scripts": {
+    "refresh": "node scripts/refresh.mjs",
+    "trails": "node scripts/fetch-trails.mjs",
+    "test": "node scripts/test-parser.mjs",
+    "serve": "python3 -m http.server 8642"
+  },
+  "dependencies": {
+    "tesseract.js": "5.1.1"
+  }
+}

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>TrailTrak — San Diego run clubs, mapped</title>
+  <meta name="description" content="Every trail and running route in San Diego, color-coded off-road vs on-road, with the run clubs meeting on each one this week." />
+  <meta name="theme-color" content="#ffffff" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='11' fill='%236a4c93'/%3E%3Ccircle cx='28' cy='12' r='5' fill='%23f2b705'/%3E%3Cpath d='M3 33l11-15 7 9 5-6 11 12z' fill='%23f6f1e7'/%3E%3Cpath d='M9 36c6-5 14-3 18-9' stroke='%23f25c05' stroke-width='3' fill='none' stroke-linecap='round'/%3E%3C/svg%3E" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,700;12..96,800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+  <link rel="stylesheet" href="styles.css?v=6" />
+</head>
+<body>
+  <header class="top">
+    <a class="brand" href="./" aria-label="TrailTrak home">
+      <svg viewBox="0 0 40 40" aria-hidden="true">
+        <rect width="40" height="40" rx="11" fill="#6a4c93" />
+        <circle cx="28" cy="12" r="5" fill="#f2b705" />
+        <path d="M3 33l11-15 7 9 5-6 11 12z" fill="#f6f1e7" />
+        <path d="M9 36c6-5 14-3 18-9" stroke="#f25c05" stroke-width="3" fill="none" stroke-linecap="round" stroke-dasharray="1 5" />
+      </svg>
+      <div><b>Trail<span>Trak</span></b><small>San Diego run clubs, mapped</small></div>
+    </a>
+    <div class="refresh" id="refresh" title="Club schedules refresh every day at 12:00 AM and 12:00 PM Pacific">
+      <span class="dot"></span><span id="refreshText">Loading…</span>
+    </div>
+  </header>
+
+  <main class="app">
+    <section class="mapwrap" aria-label="Trail map">
+      <div id="map"></div>
+      <div class="mapbar">
+        <div class="search">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg>
+          <label class="sr-only" for="q">Search trails, clubs and places</label>
+          <input id="q" type="search" placeholder="Search trails, clubs, places…" autocomplete="off" />
+          <div class="suggest" id="suggest" role="listbox"></div>
+        </div>
+        <div class="chips">
+          <button class="chip" id="fOff" aria-pressed="true"><span class="sw" style="background:var(--offroad)"></span>Off-road <span class="n" id="nOff"></span></button>
+          <button class="chip" id="fOn" aria-pressed="true"><span class="sw" style="background:var(--onroad)"></span>On-road <span class="n" id="nOn"></span></button>
+          <button class="chip" id="fBusy" aria-pressed="false" title="Show only trails where a club meets this week"><span class="sw" style="background:var(--marigold)"></span>Club trails only</button>
+          <button class="chip toggle" id="fFav" aria-pressed="false" title="Show only the clubs you starred">★ My clubs <span class="n"></span></button>
+          <button class="chip toggle" id="fMore" aria-pressed="false" aria-expanded="false" aria-controls="filterpop">⚙︎ Filters <span class="n" id="nFilt"></span></button>
+        </div>
+        <div class="filterpop" id="filterpop" hidden></div>
+      </div>
+      <div class="days" id="days" aria-label="Pick a day"></div>
+    </section>
+
+    <aside class="panel">
+      <div class="tabs" role="tablist">
+        <button class="tab" role="tab" data-tab="trails" aria-selected="true" style="--tabc:var(--marigold)">Trails<span class="badge" id="selCount" hidden></span></button>
+        <button class="tab" role="tab" data-tab="week" aria-selected="false" style="--tabc:var(--poppy)">This week</button>
+        <button class="tab" role="tab" data-tab="clubs" aria-selected="false" style="--tabc:var(--lupine)">Clubs</button>
+        <button class="tab" role="tab" data-tab="add" aria-selected="false" style="--tabc:var(--sage)">Add a post</button>
+      </div>
+      <div class="view on" id="v-trails"></div>
+      <div class="view" id="v-week"></div>
+      <div class="view" id="v-clubs"></div>
+      <div class="view" id="v-add"></div>
+    </aside>
+  </main>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script type="module" src="app.js?v=6"></script>
+</body>
+</html>

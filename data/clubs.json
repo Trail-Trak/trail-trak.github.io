@@ -1,0 +1,1315 @@
+{
+ "_about": "Every run club TrailTrak tracks. 'usual' runs come from public run-club guides (see sources) and are shown as 'usual schedule' until a fresh Instagram post or website update confirms them. 'place' must match a name in places.json (or leave it out when the club rotates). time is 24h 'HH:MM', or null with 'when' (morning/evening/sunset) when the guides don't give one. Edit freely. 'tags' are run types (trail, workout, women, lgbtq, beer, coffee, dogs, walkers, long, social); a usual run can add its own tags.",
+ "sources": {
+  "SP": {
+   "label": "Sweatpals: The Complete San Diego Running Scene (Sep 2025)",
+   "url": "https://sweatpals.com/blog/72336"
+  },
+  "SDRC": {
+   "label": "San Diego Running Co: San Diego Run Clubs (Feb 2022)",
+   "url": "https://www.sandiegorunningco.com/blog/san-diego-run-clubs/"
+  },
+  "IMC": {
+   "label": "In Motion Events: 20+ San Diego Run Clubs (Jun 2026)",
+   "url": "https://inmotionevents.com/20-san-diego-run-clubs-to-try/"
+  },
+  "LW": {
+   "label": "LocallyWell: Ultimate Guide to SD Run Clubs (Apr 2026)",
+   "url": "https://www.locallywell.com/the-ultimate-guide-to-san-diego-run-clubs/"
+  },
+  "SDRC2": {
+   "label": "San Diego Running Co: San Diego Run Clubs list (current, 2026)",
+   "url": "https://www.sandiegorunningco.com/san-diego-run-clubs/"
+  },
+  "SDURF": {
+   "label": "San Diego Ultra Running Friends: San Diego Run Groups",
+   "url": "https://sdultrarunning.com/San-Diego-Run-Groups"
+  },
+  "SITE": {
+   "label": "The club's own website",
+   "url": ""
+  }
+ },
+ "clubs": [
+  {
+   "id": "tuesdays-waterfront",
+   "name": "Tuesday's Waterfront Run",
+   "instagram": "tuesdayswaterfrontrun",
+   "area": "Downtown",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "18:00",
+     "place": "Waterfront Park",
+     "distance": "3–5 mi"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "sixrun9",
+   "name": "Team SixRun9",
+   "instagram": "sixrun9",
+   "alsoInstagram": [
+    "teamsixrun9"
+   ],
+   "area": "Downtown",
+   "src": [
+    "SDURF",
+    "SP",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Fri"
+     ],
+     "time": "06:00",
+     "place": "Star of India"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "ob-run-club",
+   "name": "OB Run Club",
+   "instagram": "obrunclub",
+   "area": "Ocean Beach",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "18:00",
+     "place": "4700 Saratoga Ave",
+     "distance": "4 or 6 mi along Sunset Cliffs"
+    },
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "07:00",
+     "place": "Vilis Health Bar",
+     "distance": "4–6 mi"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "pb-run-club",
+   "name": "Pacific Beach Run Club",
+   "instagram": "pbrunclub",
+   "website": "https://pbrunclub.com",
+   "area": "Pacific Beach",
+   "src": [
+    "SITE",
+    "SDRC2",
+    "SP",
+    "LW",
+    "IMC"
+   ],
+   "note": "The club website (Nov 2026) lists 1376 Felspar St; older guides say Bonita Cove or 845 Garnet Ave.",
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "place": "1376 Felspar St",
+     "distance": "5K"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "08:30",
+     "place": "1376 Felspar St",
+     "distance": "5K"
+    }
+   ],
+   "tags": [
+    "social",
+    "coffee"
+   ]
+  },
+  {
+   "id": "milestone",
+   "name": "Milestone Running",
+   "instagram": "milestonerunning",
+   "area": "Pacific Beach · North Park",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "18:00",
+     "place": "Milestone Running Pacific Beach",
+     "distance": "3–5 mi"
+    },
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "place": "Milestone Running North Park",
+     "distance": "3–5 mi"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "seek-beer",
+   "name": "Seek Beer Run Club",
+   "instagram": "seekbeer_runclub",
+   "area": "North Park",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "18:00",
+     "place": "Seek Beer Co.",
+     "distance": "5K / 10K"
+    }
+   ],
+   "tags": [
+    "beer",
+    "social"
+   ]
+  },
+  {
+   "id": "sd-trail-runners",
+   "name": "San Diego Trail Runners",
+   "instagram": "sdtrailrunners",
+   "area": "Mission Trails",
+   "src": [
+    "SDRC2",
+    "SDURF",
+    "SP",
+    "LW"
+   ],
+   "note": "Sources disagree: SD Ultra Running Friends lists Mon 6 pm (alternating Kwaay Paay lot / Clairemont Mesa Blvd trailhead) and Thu 5:30 am in Spring Valley; SD Running Co lists Mon 6 am, Wed 5 am, Thu 5:30 am at Mission Trails.",
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "18:00",
+     "place": "Kwaay Paay Trailhead"
+    },
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "05:00",
+     "place": "Mission Trails Visitor Center"
+    },
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "05:30",
+     "place": "12006 Campo Rd, Spring Valley"
+    }
+   ],
+   "tags": [
+    "trail"
+   ]
+  },
+  {
+   "id": "frwsd",
+   "name": "Front Runners & Walkers SD",
+   "instagram": "f_r_w_s_d",
+   "website": "https://frwsd.org",
+   "area": "Balboa Park",
+   "src": [
+    "SDRC2",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue",
+      "Thu"
+     ],
+     "time": "18:00",
+     "place": "Balboa Park at 6th & Laurel"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "08:00",
+     "place": "Balboa Park at 6th & Laurel"
+    }
+   ],
+   "tags": [
+    "lgbtq",
+    "walkers",
+    "social"
+   ]
+  },
+  {
+   "id": "black-men-run",
+   "name": "Black Men Run SD",
+   "instagram": "blackmenrunsd",
+   "area": "Balboa Park",
+   "src": [
+    "SDRC2",
+    "SDRC",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "18:00",
+     "place": "Liberty Station"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "07:15",
+     "place": "Liberty Station"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "santa-mujeres",
+   "name": "Santa Mujeres Running Club",
+   "instagram": "santamujeresrc",
+   "area": "Balboa Park",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "18:00",
+     "place": "Balboa Park",
+     "distance": "1 mi & 5K"
+    }
+   ],
+   "tags": [
+    "women",
+    "social"
+   ]
+  },
+  {
+   "id": "la-jolla-rc",
+   "name": "La Jolla Run Club",
+   "instagram": "ljrunclub",
+   "area": "La Jolla",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "18:00",
+     "place": "La Jolla Rec Center",
+     "distance": "4.8 mi"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "lj-track-club",
+   "name": "La Jolla Track Club",
+   "instagram": "ljtrackclub",
+   "area": "UCSD",
+   "src": [
+    "SDRC2",
+    "SDRC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "17:30",
+     "place": "UCSD Triton Track"
+    }
+   ],
+   "tags": [
+    "workout"
+   ]
+  },
+  {
+   "id": "lez-run",
+   "name": "LEZ Run SD",
+   "instagram": "lezrunsd",
+   "area": "North Park",
+   "src": [
+    "SP",
+    "LW",
+    "IMC"
+   ],
+   "note": "Guides name Thorn Brewing or Little Bird Brewing; check the latest post.",
+   "usual": [
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "18:00",
+     "place": "Thorn Brewing North Park",
+     "distance": "3 mi run / 1.75 mi walk"
+    }
+   ],
+   "tags": [
+    "lgbtq",
+    "women",
+    "walkers",
+    "dogs"
+   ]
+  },
+  {
+   "id": "adams-rc",
+   "name": "Adams Run Club",
+   "instagram": "adamsrunclub",
+   "alsoInstagram": [
+    "adamsrclub"
+   ],
+   "area": "Normal Heights",
+   "src": [
+    "SP",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Fri"
+     ],
+     "time": "07:00",
+     "place": "Bica Normal Heights",
+     "distance": "5K"
+    }
+   ],
+   "tags": [
+    "coffee",
+    "social"
+   ]
+  },
+  {
+   "id": "november-project",
+   "name": "November Project SD",
+   "instagram": "novemberprojectsd",
+   "area": "Balboa Park",
+   "src": [
+    "SDRC2",
+    "SDRC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon",
+      "Wed"
+     ],
+     "time": "06:29",
+     "place": "Spreckels Organ Pavilion"
+    }
+   ],
+   "tags": [
+    "workout"
+   ]
+  },
+  {
+   "id": "urban-trail-runners",
+   "name": "Urban Trail Runners SD",
+   "instagram": "urbantrailrunnerssd",
+   "area": "North Park",
+   "src": [
+    "SDURF",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": null,
+     "when": "evening",
+     "place": "Morley Field"
+    }
+   ],
+   "note": "SD Ultra Running Friends lists Tue 6 pm at the Mission Trails Clairemont trailhead; LocallyWell (2026) lists Wednesdays at Morley Field.",
+   "tags": [
+    "trail"
+   ]
+  },
+  {
+   "id": "waterfront-social",
+   "name": "Waterfront Social Run Club",
+   "instagram": "waterfrontsocialrunclub",
+   "area": "Shelter Island",
+   "src": [
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": null,
+     "when": "sunset",
+     "place": "Shelter Island"
+    }
+   ],
+   "tags": [
+    "beer",
+    "social"
+   ]
+  },
+  {
+   "id": "fleet-feet",
+   "name": "Fleet Feet San Diego",
+   "instagram": "fleetfeetsandiego",
+   "website": "https://www.fleetfeet.com/s/sandiego/events",
+   "area": "Carmel Valley",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:15",
+     "place": "Fleet Feet Carmel Valley",
+     "distance": "2–6 mi"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "coastal-rc",
+   "name": "Coastal Run Club",
+   "instagram": "coastal.runclub",
+   "website": "https://coastalrunclub.co",
+   "area": "Cardiff · Leucadia",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "place": "Cardiff by the Sea"
+    },
+    {
+     "days": [
+      "Fri"
+     ],
+     "time": "06:30",
+     "place": "The Shanty Cardiff"
+    },
+    {
+     "days": [
+      "Sun"
+     ],
+     "time": "08:00",
+     "place": "Coffee Coffee Leucadia"
+    }
+   ],
+   "tags": [
+    "coffee",
+    "social"
+   ]
+  },
+  {
+   "id": "encinitas-rc",
+   "name": "Encinitas Run Club",
+   "instagram": "encinitasrunclub",
+   "area": "Encinitas",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "18:00",
+     "place": "Culture Brewing Encinitas",
+     "distance": "3–5 mi"
+    }
+   ],
+   "tags": [
+    "beer",
+    "social"
+   ]
+  },
+  {
+   "id": "trailblazers-nc",
+   "name": "Trailblazers North County",
+   "instagram": null,
+   "website": "https://www.meetup.com/encinitas-trail-run/",
+   "area": "Encinitas",
+   "src": [
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": null,
+     "when": "morning",
+     "place": "San Elijo Lagoon",
+     "distance": "3–6 mi trail"
+    }
+   ],
+   "tags": [
+    "trail"
+   ]
+  },
+  {
+   "id": "carlsbad-coastal",
+   "name": "Carlsbad Coastal Runners",
+   "instagram": "carlsbadcoastalrunners",
+   "area": "Carlsbad",
+   "src": [
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Sun"
+     ],
+     "time": "07:30",
+     "place": "Magee Park"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "carlsbad-rc",
+   "name": "Carlsbad Run Club",
+   "instagram": "carlsbadrunclub.official",
+   "area": "Carlsbad",
+   "src": [
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "place": "Carlsbad Village",
+     "distance": "coastal 5K"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "south-o",
+   "name": "South O Run Club",
+   "instagram": "southorunclub",
+   "website": "https://sorunclub.com",
+   "area": "Oceanside",
+   "src": [
+    "SDRC2",
+    "SP",
+    "SDRC",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "17:00",
+     "place": "South O Brewing"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "10:00",
+     "place": "South O Brewing"
+    }
+   ],
+   "tags": [
+    "beer",
+    "social"
+   ]
+  },
+  {
+   "id": "los-guapos",
+   "name": "Los Guapos Run",
+   "instagram": "losguapos_run",
+   "area": "San Marcos",
+   "src": [
+    "SP"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Fri"
+     ],
+     "time": "18:00",
+     "place": "San Elijo Ridgeline Trailhead"
+    }
+   ],
+   "tags": [
+    "trail"
+   ]
+  },
+  {
+   "id": "nobody-cares",
+   "name": "Nobody Cares Run Club",
+   "instagram": "nobodycaresrunclub",
+   "area": "Escondido",
+   "src": [
+    "SDRC2",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "18:00",
+     "place": "Kit Carson Park",
+     "distance": "ladies' run",
+     "tags": [
+      "women"
+     ]
+    },
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00"
+    },
+    {
+     "days": [
+      "Fri"
+     ],
+     "time": "05:20"
+    }
+   ],
+   "website": "http://www.nobodycaresrunclub.com/",
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "chismosas",
+   "name": "Chismosas Run Club",
+   "instagram": "chismosasrunclub",
+   "area": "Escondido",
+   "src": [
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Thu",
+      "Sat"
+     ],
+     "time": null,
+     "when": "morning",
+     "distance": "1.5–6 mi trail or road"
+    }
+   ],
+   "tags": [
+    "trail",
+    "social"
+   ]
+  },
+  {
+   "id": "ultrabuds",
+   "name": "UltraBuds Run Club",
+   "instagram": "ultrabuds",
+   "area": "North County trails",
+   "src": [
+    "SDRC2",
+    "SDURF",
+    "SP",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "06:30",
+     "place": "Lake Hodges Trailhead (Sunset Dr)",
+     "distance": "trail & road"
+    }
+   ],
+   "note": "SD Ultra Running Friends lists the Lake Hodges trailhead; SD Running Co says 'North County trails'.",
+   "tags": [
+    "trail",
+    "long"
+   ]
+  },
+  {
+   "id": "sd-girls-rc",
+   "name": "SD Girls Run Club",
+   "instagram": "sdgirlsrunclub",
+   "alsoInstagram": [
+    "sdgirlsrun"
+   ],
+   "area": "Imperial Beach",
+   "src": [
+    "SP",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "18:30",
+     "place": "Imperial Beach Pier"
+    }
+   ],
+   "tags": [
+    "women"
+   ]
+  },
+  {
+   "id": "birch-road",
+   "name": "Birch Road Run Club",
+   "instagram": "birch.rc",
+   "area": "Chula Vista",
+   "src": [
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": null,
+     "when": "evening",
+     "place": "Otay Ranch Town Center"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": null,
+     "when": "morning",
+     "place": "Otay Ranch Town Center"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "chula-vista-rc",
+   "name": "Chula Vista Run Club",
+   "instagram": "chulavistarunclub",
+   "area": "Chula Vista",
+   "src": [
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "place": "Memorial Park Chula Vista",
+     "distance": "2 mi walk · 5K walk/run · 4–5 mi run"
+    }
+   ],
+   "tags": [
+    "walkers",
+    "social"
+   ]
+  },
+  {
+   "id": "run-dirty",
+   "name": "Run Dirty Club",
+   "instagram": "rundirtyclub",
+   "area": "Chula Vista",
+   "src": [
+    "SDRC2",
+    "SP"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "07:00",
+     "place": "Sunridge Park"
+    }
+   ],
+   "alsoInstagram": [
+    "rundirtychv"
+   ],
+   "note": "Sweatpals also lists a Wed 6:30 pm run at Memorial Park under @rundirtychv.",
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "sby-trail",
+   "name": "South Bay YMCA Trail Runners",
+   "instagram": "sbytrailrunners",
+   "area": "Chula Vista",
+   "src": [
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "18:00",
+     "distance": "trail"
+    }
+   ],
+   "tags": [
+    "trail"
+   ]
+  },
+  {
+   "id": "sd-track-club",
+   "name": "San Diego Track Club",
+   "instagram": "sandiegotrackclub",
+   "website": "https://sandiegotrackclub.org",
+   "area": "Metro SD",
+   "src": [
+    "SDRC2",
+    "SDRC",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": null,
+     "when": "evening",
+     "distance": "workout"
+    }
+   ],
+   "tags": [
+    "workout"
+   ]
+  },
+  {
+   "id": "body-art",
+   "name": "Body Art Run Club",
+   "instagram": "bodyartrunclub",
+   "area": "Mission Bay",
+   "src": [
+    "SDRC2",
+    "SP"
+   ],
+   "note": "Sweatpals lists Thursdays 6:30 pm instead.",
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "18:30",
+     "place": "Super Bloom Cafe, Mission Bay"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "reluctant-runners",
+   "name": "San Diego Reluctant Runners",
+   "instagram": "sdreluctantrunners",
+   "website": "https://www.meetup.com/San-Diego-Reluctant-Runners",
+   "area": "Rotates",
+   "src": [
+    "SDRC2",
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "17:45",
+     "distance": "5K max"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "i-hate-trail",
+   "name": "I Hate Trail Running Run Club",
+   "instagram": "ihatetrailrunningrc",
+   "area": "Rotates",
+   "src": [
+    "SDRC2"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "distance": "5K to 20 mi"
+    }
+   ],
+   "tags": [
+    "trail",
+    "long"
+   ]
+  },
+  {
+   "id": "latinos-run",
+   "name": "Latinos Run San Diego",
+   "instagram": "latinosrunsandiego",
+   "area": "San Diego",
+   "src": [
+    "SDURF"
+   ],
+   "note": "Runs every other Thursday at 5:45 pm; watch their posts for which week.",
+   "usual": [],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "allways-ready",
+   "name": "Be Allways Ready Run Club",
+   "instagram": "allwaysreadyactive",
+   "website": "https://beallwaysready.com/run-club-after-miles-coffee/",
+   "area": "East Village",
+   "src": [
+    "SITE"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Tue"
+     ],
+     "time": "06:00",
+     "place": "MB Performance, 630 Tenth Ave",
+     "distance": "3–5 mi + coffee"
+    },
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "18:30",
+     "place": "Sweet Things"
+    }
+   ],
+   "tags": [
+    "coffee"
+   ]
+  },
+  {
+   "id": "tecolote-trails-ales",
+   "name": "Tecolote Trails & Ales",
+   "instagram": null,
+   "area": "Clairemont",
+   "src": [
+    "SDURF"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:00",
+     "place": "Best Pizza and Brew, Clairemont",
+     "distance": "6–8 mi, mostly trail"
+    }
+   ],
+   "tags": [
+    "trail",
+    "beer"
+   ]
+  },
+  {
+   "id": "double-peak",
+   "name": "Double Peak Run Club",
+   "instagram": null,
+   "area": "San Marcos",
+   "src": [
+    "SDURF"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Mon"
+     ],
+     "time": "05:45",
+     "place": "San Elijo Rd Dog Park"
+    }
+   ],
+   "tags": [
+    "trail"
+   ]
+  },
+  {
+   "id": "pacific-coast-rc",
+   "name": "Pacific Coast Run Club",
+   "instagram": null,
+   "area": "Oceanside",
+   "src": [
+    "SDRC2"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": "18:30",
+     "place": "Buccaneer Park"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "07:00",
+     "place": "Buccaneer Park"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "sunday-runday",
+   "name": "Sunday Runday Club",
+   "instagram": "sundayrundayclub",
+   "area": "Rotates",
+   "src": [
+    "SP",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Sun"
+     ],
+     "time": "08:30"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "long-run-sunday",
+   "name": "Long Run Sunday SD",
+   "instagram": "longrunsundaysd",
+   "area": "Rotates",
+   "src": [
+    "SP",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Sun"
+     ],
+     "time": null,
+     "when": "morning",
+     "distance": "long run"
+    }
+   ],
+   "tags": [
+    "long"
+   ]
+  },
+  {
+   "id": "we-run-sd",
+   "name": "We Run SD",
+   "instagram": "werun_sd",
+   "area": "Rotates",
+   "src": [
+    "LW"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Wed"
+     ],
+     "time": null,
+     "when": "evening"
+    },
+    {
+     "days": [
+      "Sun"
+     ],
+     "time": null,
+     "when": "morning"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "baddies",
+   "name": "Baddies Run Club",
+   "instagram": "baddiesrun_sd",
+   "area": "Liberty Station · Coronado · rotates",
+   "src": [
+    "SDRC2",
+    "LW",
+    "IMC"
+   ],
+   "usual": [
+    {
+     "days": [
+      "Thu"
+     ],
+     "time": "18:00",
+     "place": "Liberty Station"
+    },
+    {
+     "days": [
+      "Sat"
+     ],
+     "time": "08:00"
+    },
+    {
+     "days": [
+      "Sun"
+     ],
+     "time": "07:00"
+    }
+   ],
+   "tags": [
+    "social"
+   ]
+  },
+  {
+   "id": "mikkeller",
+   "name": "Mikkeller Running Club SD",
+   "instagram": "mikkellerrunclubsd",
+   "area": "Rotates",
+   "src": [
+    "SP",
+    "LW"
+   ],
+   "usual": [],
+   "tags": [
+    "beer",
+    "social"
+   ]
+  },
+  {
+   "id": "earthbound",
+   "name": "EARTHBOUND Trail Running",
+   "instagram": "earthbound.trail",
+   "area": "SD County trails",
+   "src": [
+    "LW"
+   ],
+   "usual": [],
+   "tags": [
+    "trail",
+    "long"
+   ]
+  },
+  {
+   "id": "run-north-county",
+   "name": "Run North County",
+   "instagram": "run_north_county",
+   "website": "https://runnorthcounty.com",
+   "area": "North County",
+   "src": [
+    "SDRC2",
+    "SDRC",
+    "LW",
+    "IMC"
+   ],
+   "usual": [],
+   "tags": [
+    "social"
+   ]
+  }
+ ]
+}

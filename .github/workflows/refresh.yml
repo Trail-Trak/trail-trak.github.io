@@ -1,0 +1,66 @@
+name: Refresh club schedules
+
+# 12:00 AM and 12:00 PM Pacific, every day.
+# GitHub cron runs in UTC and has no time zones, so there are two schedules:
+# one for daylight time (PDT = UTC-7) and one for standard time (PST = UTC-8).
+# The first step skips whichever one doesn't match the current season.
+on:
+  schedule:
+    - cron: "0 7,19 * * *"   # midnight / noon during PDT
+    - cron: "0 8,20 * * *"   # midnight / noon during PST
+  workflow_dispatch: {}       # "Run workflow" button for a manual refresh
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Only run at 12:00 Pacific
+        id: gate
+        run: |
+          zone=$(TZ=America/Los_Angeles date +%Z)
+          sched="${{ github.event.schedule }}"
+          if [ -z "$sched" ]; then echo "go=true" >> "$GITHUB_OUTPUT"; exit 0; fi
+          if { [ "$zone" = "PDT" ] && [ "$sched" = "0 7,19 * * *" ]; } || { [ "$zone" = "PST" ] && [ "$sched" = "0 8,20 * * *" ]; }; then
+            echo "go=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "Skipping: this schedule is for the other half of the year ($zone)."
+            echo "go=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.gate.outputs.go == 'true'
+
+      - uses: actions/setup-node@v4
+        if: steps.gate.outputs.go == 'true'
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Install
+        if: steps.gate.outputs.go == 'true'
+        run: npm ci || npm install
+
+      - name: Read Instagram, websites and flyers
+        if: steps.gate.outputs.go == 'true'
+        env:
+          IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: npm run refresh
+
+      - name: Save the new schedule
+        if: steps.gate.outputs.go == 'true'
+        run: |
+          git config user.name "trailtrak-bot"
+          git config user.email "trailtrak-bot@users.noreply.github.com"
+          git add data/schedule.json data/ocr-cache.json
+          if git diff --cached --quiet; then echo "No changes"; exit 0; fi
+          git commit -m "Refresh club schedules $(TZ=America/Los_Angeles date '+%a %b %-d %-I:%M %p %Z')"
+          git push

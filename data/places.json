@@ -1,0 +1,897 @@
+{
+ "_about": "Meeting spots the post reader recognizes. 'aliases' are lowercase words a caption or flyer might use. Coordinates are approximate (to roughly a block); fix any that are off. Trail names from trails.geojson are recognized automatically too.",
+ "places": [
+  {
+   "name": "Waterfront Park",
+   "lat": 32.7219,
+   "lng": -117.1722,
+   "aliases": [
+    "waterfront park",
+    "county waterfront park"
+   ]
+  },
+  {
+   "name": "Star of India",
+   "lat": 32.7206,
+   "lng": -117.1736,
+   "aliases": [
+    "star of india",
+    "maritime museum"
+   ]
+  },
+  {
+   "name": "Seaport Village",
+   "lat": 32.7092,
+   "lng": -117.171,
+   "aliases": [
+    "seaport village"
+   ]
+  },
+  {
+   "name": "Embarcadero",
+   "lat": 32.7155,
+   "lng": -117.1735,
+   "aliases": [
+    "embarcadero",
+    "harbor drive",
+    "the harbor",
+    "san diego harbor"
+   ]
+  },
+  {
+   "name": "Petco Park",
+   "lat": 32.7073,
+   "lng": -117.1566,
+   "aliases": [
+    "petco park",
+    "petco"
+   ]
+  },
+  {
+   "name": "MB Performance, 630 Tenth Ave",
+   "lat": 32.7106,
+   "lng": -117.1555,
+   "approx": true,
+   "aliases": [
+    "630 tenth",
+    "630 10th",
+    "mb performance",
+    "village cafe"
+   ]
+  },
+  {
+   "name": "Sweet Things",
+   "lat": 32.711,
+   "lng": -117.156,
+   "approx": true,
+   "aliases": [
+    "sweet things"
+   ]
+  },
+  {
+   "name": "Little Italy",
+   "lat": 32.7246,
+   "lng": -117.169,
+   "aliases": [
+    "little italy",
+    "amici park"
+   ]
+  },
+  {
+   "name": "Coronado Ferry Landing",
+   "lat": 32.6995,
+   "lng": -117.1704,
+   "aliases": [
+    "ferry landing",
+    "coronado ferry"
+   ]
+  },
+  {
+   "name": "Coronado Beach",
+   "lat": 32.6803,
+   "lng": -117.1797,
+   "aliases": [
+    "coronado beach",
+    "hotel del",
+    "hotel del coronado",
+    "coronado"
+   ]
+  },
+  {
+   "name": "Silver Strand",
+   "lat": 32.633,
+   "lng": -117.142,
+   "aliases": [
+    "silver strand",
+    "strand"
+   ]
+  },
+  {
+   "name": "Shelter Island",
+   "lat": 32.7154,
+   "lng": -117.228,
+   "aliases": [
+    "shelter island",
+    "eppig brewing",
+    "eppig"
+   ]
+  },
+  {
+   "name": "Harbor Island",
+   "lat": 32.7255,
+   "lng": -117.201,
+   "aliases": [
+    "harbor island"
+   ]
+  },
+  {
+   "name": "Liberty Station",
+   "lat": 32.7385,
+   "lng": -117.214,
+   "aliases": [
+    "liberty station",
+    "nimitz"
+   ]
+  },
+  {
+   "name": "4700 Saratoga Ave",
+   "lat": 32.7518,
+   "lng": -117.251,
+   "aliases": [
+    "4700 saratoga",
+    "saratoga ave",
+    "saratoga avenue",
+    "ob pier",
+    "ocean beach pier"
+   ]
+  },
+  {
+   "name": "Vilis Health Bar",
+   "lat": 32.747,
+   "lng": -117.2477,
+   "approx": true,
+   "aliases": [
+    "vilis",
+    "vilis health bar",
+    "1780 sunset cliffs"
+   ]
+  },
+  {
+   "name": "Sunset Cliffs",
+   "lat": 32.721,
+   "lng": -117.254,
+   "aliases": [
+    "sunset cliffs"
+   ]
+  },
+  {
+   "name": "Dog Beach OB",
+   "lat": 32.7535,
+   "lng": -117.25,
+   "aliases": [
+    "dog beach"
+   ]
+  },
+  {
+   "name": "Robb Field",
+   "lat": 32.753,
+   "lng": -117.242,
+   "aliases": [
+    "robb field"
+   ]
+  },
+  {
+   "name": "Bonita Cove",
+   "lat": 32.7661,
+   "lng": -117.2464,
+   "aliases": [
+    "bonita cove",
+    "mission point"
+   ]
+  },
+  {
+   "name": "Belmont Park",
+   "lat": 32.771,
+   "lng": -117.252,
+   "aliases": [
+    "belmont park",
+    "mission beach"
+   ]
+  },
+  {
+   "name": "1376 Felspar St",
+   "lat": 32.7966,
+   "lng": -117.2468,
+   "approx": true,
+   "aliases": [
+    "1376 felspar",
+    "felspar st",
+    "felspar street"
+   ]
+  },
+  {
+   "name": "Crystal Pier",
+   "lat": 32.7962,
+   "lng": -117.256,
+   "aliases": [
+    "crystal pier",
+    "pb pier",
+    "garnet ave",
+    "845 garnet"
+   ]
+  },
+  {
+   "name": "Milestone Running Pacific Beach",
+   "lat": 32.7975,
+   "lng": -117.24,
+   "approx": true,
+   "aliases": [
+    "milestone pb",
+    "milestone pacific beach",
+    "milestone running pb"
+   ]
+  },
+  {
+   "name": "Kate Sessions Park",
+   "lat": 32.807,
+   "lng": -117.241,
+   "aliases": [
+    "kate sessions"
+   ]
+  },
+  {
+   "name": "Crown Point",
+   "lat": 32.788,
+   "lng": -117.234,
+   "aliases": [
+    "crown point"
+   ]
+  },
+  {
+   "name": "Fiesta Island",
+   "lat": 32.777,
+   "lng": -117.219,
+   "aliases": [
+    "fiesta island"
+   ]
+  },
+  {
+   "name": "De Anza Cove",
+   "lat": 32.7965,
+   "lng": -117.209,
+   "aliases": [
+    "de anza cove",
+    "de anza"
+   ]
+  },
+  {
+   "name": "Tecolote Shores",
+   "lat": 32.772,
+   "lng": -117.212,
+   "aliases": [
+    "tecolote shores",
+    "mission bay visitor center",
+    "mission bay"
+   ]
+  },
+  {
+   "name": "Tecolote Canyon Nature Center",
+   "lat": 32.766,
+   "lng": -117.191,
+   "aliases": [
+    "tecolote canyon",
+    "tecolote nature center"
+   ]
+  },
+  {
+   "name": "Best Pizza and Brew, Clairemont",
+   "lat": 32.816,
+   "lng": -117.1805,
+   "approx": true,
+   "aliases": [
+    "best pizza and brew",
+    "best pizza & brew"
+   ]
+  },
+  {
+   "name": "Rose Canyon",
+   "lat": 32.841,
+   "lng": -117.222,
+   "aliases": [
+    "rose canyon"
+   ]
+  },
+  {
+   "name": "La Jolla Rec Center",
+   "lat": 32.8433,
+   "lng": -117.2758,
+   "aliases": [
+    "la jolla rec",
+    "la jolla recreation center",
+    "lj rec center",
+    "615 prospect"
+   ]
+  },
+  {
+   "name": "La Jolla Cove",
+   "lat": 32.85,
+   "lng": -117.271,
+   "aliases": [
+    "la jolla cove",
+    "the cove",
+    "scripps park"
+   ]
+  },
+  {
+   "name": "La Jolla Shores",
+   "lat": 32.858,
+   "lng": -117.256,
+   "aliases": [
+    "la jolla shores",
+    "kellogg park"
+   ]
+  },
+  {
+   "name": "Mount Soledad",
+   "lat": 32.8398,
+   "lng": -117.2449,
+   "aliases": [
+    "mt soledad",
+    "mount soledad",
+    "soledad"
+   ]
+  },
+  {
+   "name": "UCSD Triton Track",
+   "lat": 32.8868,
+   "lng": -117.2353,
+   "approx": true,
+   "aliases": [
+    "triton track",
+    "ucsd track",
+    "ucsd"
+   ]
+  },
+  {
+   "name": "Torrey Pines State Reserve",
+   "lat": 32.9205,
+   "lng": -117.253,
+   "aliases": [
+    "torrey pines",
+    "torrey pines reserve",
+    "torrey pines state"
+   ]
+  },
+  {
+   "name": "Del Mar Dog Beach",
+   "lat": 32.969,
+   "lng": -117.268,
+   "aliases": [
+    "del mar",
+    "powerhouse park"
+   ]
+  },
+  {
+   "name": "Los Peñasquitos Canyon (west)",
+   "lat": 32.93,
+   "lng": -117.191,
+   "aliases": [
+    "penasquitos",
+    "peñasquitos",
+    "los penasquitos",
+    "pq canyon",
+    "lpq"
+   ]
+  },
+  {
+   "name": "Fleet Feet Carmel Valley",
+   "lat": 32.9563,
+   "lng": -117.1974,
+   "approx": true,
+   "aliases": [
+    "fleet feet",
+    "5980 village way",
+    "village way"
+   ]
+  },
+  {
+   "name": "Lake Miramar",
+   "lat": 32.913,
+   "lng": -117.094,
+   "aliases": [
+    "lake miramar",
+    "miramar reservoir"
+   ]
+  },
+  {
+   "name": "Black Mountain Open Space",
+   "lat": 32.984,
+   "lng": -117.118,
+   "aliases": [
+    "black mountain"
+   ]
+  },
+  {
+   "name": "Mission Trails Visitor Center",
+   "lat": 32.818,
+   "lng": -117.0566,
+   "aliases": [
+    "mission trails",
+    "mtrp",
+    "mission trails visitor center",
+    "mission trails regional park"
+   ]
+  },
+  {
+   "name": "Kwaay Paay Trailhead",
+   "lat": 32.8128,
+   "lng": -117.0545,
+   "approx": true,
+   "aliases": [
+    "kwaay paay"
+   ]
+  },
+  {
+   "name": "Clairemont Mesa Blvd Trailhead",
+   "lat": 32.8268,
+   "lng": -117.0872,
+   "approx": true,
+   "aliases": [
+    "11499 clairemont mesa",
+    "clairemont mesa blvd trailhead",
+    "clairemont trailhead"
+   ]
+  },
+  {
+   "name": "12006 Campo Rd, Spring Valley",
+   "lat": 32.737,
+   "lng": -116.948,
+   "approx": true,
+   "aliases": [
+    "12006 campo",
+    "campo rd",
+    "spring valley"
+   ]
+  },
+  {
+   "name": "Cowles Mountain Trailhead",
+   "lat": 32.8085,
+   "lng": -117.036,
+   "aliases": [
+    "cowles",
+    "cowles mountain",
+    "cowles mtn"
+   ]
+  },
+  {
+   "name": "Kumeyaay Lake",
+   "lat": 32.839,
+   "lng": -117.047,
+   "aliases": [
+    "kumeyaay lake",
+    "old mission dam",
+    "mission dam"
+   ]
+  },
+  {
+   "name": "Lake Murray",
+   "lat": 32.786,
+   "lng": -117.043,
+   "aliases": [
+    "lake murray"
+   ]
+  },
+  {
+   "name": "SDSU Mission Valley",
+   "lat": 32.7835,
+   "lng": -117.122,
+   "aliases": [
+    "sdsu mission valley",
+    "snapdragon",
+    "river park"
+   ]
+  },
+  {
+   "name": "Veterans War Memorial Building",
+   "lat": 32.7349,
+   "lng": -117.1453,
+   "approx": true,
+   "aliases": [
+    "veteran's war memorial",
+    "veterans war memorial",
+    "war memorial building",
+    "zoo drive"
+   ]
+  },
+  {
+   "name": "Balboa Park",
+   "lat": 32.7313,
+   "lng": -117.1497,
+   "aliases": [
+    "balboa park",
+    "balboa"
+   ]
+  },
+  {
+   "name": "Balboa Park at 6th & Laurel",
+   "lat": 32.731,
+   "lng": -117.159,
+   "aliases": [
+    "6th and laurel",
+    "6th & laurel",
+    "sixth and laurel",
+    "6th avenue & laurel",
+    "6th ave & laurel",
+    "6th avenue and laurel",
+    "6th ave and laurel"
+   ]
+  },
+  {
+   "name": "Spreckels Organ Pavilion",
+   "lat": 32.7296,
+   "lng": -117.1505,
+   "aliases": [
+    "organ pavilion",
+    "spreckels"
+   ]
+  },
+  {
+   "name": "Morley Field",
+   "lat": 32.743,
+   "lng": -117.139,
+   "aliases": [
+    "morley field",
+    "morley"
+   ]
+  },
+  {
+   "name": "Milestone Running North Park",
+   "lat": 32.748,
+   "lng": -117.13,
+   "approx": true,
+   "aliases": [
+    "milestone north park",
+    "milestone np"
+   ]
+  },
+  {
+   "name": "Seek Beer Co.",
+   "lat": 32.7495,
+   "lng": -117.126,
+   "approx": true,
+   "aliases": [
+    "seek beer"
+   ]
+  },
+  {
+   "name": "Thorn Brewing North Park",
+   "lat": 32.7426,
+   "lng": -117.1287,
+   "approx": true,
+   "aliases": [
+    "thorn brewing",
+    "thorn st"
+   ]
+  },
+  {
+   "name": "North Park",
+   "lat": 32.748,
+   "lng": -117.13,
+   "aliases": [
+    "north park"
+   ]
+  },
+  {
+   "name": "Bica Normal Heights",
+   "lat": 32.7633,
+   "lng": -117.1222,
+   "approx": true,
+   "aliases": [
+    "bica",
+    "normal heights"
+   ]
+  },
+  {
+   "name": "Golden Hill",
+   "lat": 32.719,
+   "lng": -117.14,
+   "aliases": [
+    "golden hill"
+   ]
+  },
+  {
+   "name": "Chollas Lake",
+   "lat": 32.729,
+   "lng": -117.062,
+   "aliases": [
+    "chollas lake"
+   ]
+  },
+  {
+   "name": "Imperial Beach Pier",
+   "lat": 32.5794,
+   "lng": -117.1339,
+   "aliases": [
+    "imperial beach pier",
+    "ib pier",
+    "imperial beach"
+   ]
+  },
+  {
+   "name": "Tijuana River Valley",
+   "lat": 32.553,
+   "lng": -117.087,
+   "aliases": [
+    "tijuana river valley",
+    "tj river valley"
+   ]
+  },
+  {
+   "name": "Otay Ranch Town Center",
+   "lat": 32.6226,
+   "lng": -116.9673,
+   "aliases": [
+    "otay ranch town center",
+    "otay ranch"
+   ]
+  },
+  {
+   "name": "Otay Lakes",
+   "lat": 32.633,
+   "lng": -116.938,
+   "aliases": [
+    "otay lakes",
+    "lower otay"
+   ]
+  },
+  {
+   "name": "Memorial Park Chula Vista",
+   "lat": 32.6403,
+   "lng": -117.0822,
+   "aliases": [
+    "memorial park"
+   ]
+  },
+  {
+   "name": "Sunridge Park",
+   "lat": 32.656,
+   "lng": -116.979,
+   "approx": true,
+   "aliases": [
+    "sunridge park"
+   ]
+  },
+  {
+   "name": "Chula Vista Bayfront",
+   "lat": 32.625,
+   "lng": -117.105,
+   "aliases": [
+    "bayfront park",
+    "chula vista bayfront",
+    "marina view"
+   ]
+  },
+  {
+   "name": "Mount Helix",
+   "lat": 32.767,
+   "lng": -116.983,
+   "aliases": [
+    "mt helix",
+    "mount helix"
+   ]
+  },
+  {
+   "name": "Lake Poway",
+   "lat": 33.006,
+   "lng": -117.011,
+   "aliases": [
+    "lake poway"
+   ]
+  },
+  {
+   "name": "Iron Mountain Trailhead",
+   "lat": 32.98,
+   "lng": -116.97,
+   "aliases": [
+    "iron mountain",
+    "iron mtn"
+   ]
+  },
+  {
+   "name": "Mount Woodson (Hwy 67)",
+   "lat": 33.009,
+   "lng": -116.969,
+   "aliases": [
+    "mt woodson",
+    "mount woodson",
+    "potato chip rock"
+   ]
+  },
+  {
+   "name": "Lake Hodges",
+   "lat": 33.056,
+   "lng": -117.118,
+   "aliases": [
+    "lake hodges",
+    "hodges",
+    "bernardo bay"
+   ]
+  },
+  {
+   "name": "Lake Hodges Trailhead (Sunset Dr)",
+   "lat": 33.064,
+   "lng": -117.1265,
+   "approx": true,
+   "aliases": [
+    "3600 sunset dr",
+    "sunset dr trailhead"
+   ]
+  },
+  {
+   "name": "Kit Carson Park",
+   "lat": 33.0787,
+   "lng": -117.063,
+   "aliases": [
+    "kit carson"
+   ]
+  },
+  {
+   "name": "Daley Ranch",
+   "lat": 33.172,
+   "lng": -117.06,
+   "aliases": [
+    "daley ranch"
+   ]
+  },
+  {
+   "name": "Double Peak Park",
+   "lat": 33.108,
+   "lng": -117.187,
+   "aliases": [
+    "double peak"
+   ]
+  },
+  {
+   "name": "San Elijo Rd Dog Park",
+   "lat": 33.1108,
+   "lng": -117.1955,
+   "approx": true,
+   "aliases": [
+    "1215 san elijo",
+    "san elijo dog park"
+   ]
+  },
+  {
+   "name": "San Elijo Ridgeline Trailhead",
+   "lat": 33.118,
+   "lng": -117.189,
+   "approx": true,
+   "aliases": [
+    "san elijo ridgeline",
+    "ridgeline trailhead",
+    "111 san elijo"
+   ]
+  },
+  {
+   "name": "San Elijo Lagoon",
+   "lat": 33.0085,
+   "lng": -117.261,
+   "aliases": [
+    "san elijo lagoon",
+    "elijo lagoon"
+   ]
+  },
+  {
+   "name": "Cardiff by the Sea",
+   "lat": 33.0182,
+   "lng": -117.28,
+   "aliases": [
+    "cardiff"
+   ]
+  },
+  {
+   "name": "The Shanty Cardiff",
+   "lat": 33.0182,
+   "lng": -117.2803,
+   "approx": true,
+   "aliases": [
+    "the shanty",
+    "shanty"
+   ]
+  },
+  {
+   "name": "Culture Brewing Encinitas",
+   "lat": 33.0408,
+   "lng": -117.2929,
+   "approx": true,
+   "aliases": [
+    "culture brewing"
+   ]
+  },
+  {
+   "name": "Moonlight Beach",
+   "lat": 33.047,
+   "lng": -117.298,
+   "aliases": [
+    "moonlight beach",
+    "encinitas"
+   ]
+  },
+  {
+   "name": "Coffee Coffee Leucadia",
+   "lat": 33.0676,
+   "lng": -117.3032,
+   "approx": true,
+   "aliases": [
+    "coffee coffee",
+    "leucadia"
+   ]
+  },
+  {
+   "name": "Batiquitos Lagoon",
+   "lat": 33.088,
+   "lng": -117.293,
+   "aliases": [
+    "batiquitos"
+   ]
+  },
+  {
+   "name": "Magee Park",
+   "lat": 33.1617,
+   "lng": -117.3527,
+   "aliases": [
+    "magee park",
+    "maGee park"
+   ]
+  },
+  {
+   "name": "Carlsbad Village",
+   "lat": 33.16,
+   "lng": -117.35,
+   "aliases": [
+    "carlsbad village",
+    "carlsbad seawall",
+    "seawall"
+   ]
+  },
+  {
+   "name": "South O Brewing",
+   "lat": 33.178,
+   "lng": -117.3546,
+   "approx": true,
+   "aliases": [
+    "south o brewing",
+    "south o",
+    "1575 s coast hwy",
+    "1575 south coast"
+   ]
+  },
+  {
+   "name": "Oceanside Pier",
+   "lat": 33.1935,
+   "lng": -117.387,
+   "aliases": [
+    "oceanside pier",
+    "oceanside"
+   ]
+  },
+  {
+   "name": "Buccaneer Park",
+   "lat": 33.1745,
+   "lng": -117.362,
+   "approx": true,
+   "aliases": [
+    "buccaneer park",
+    "buccaneer beach"
+   ]
+  },
+  {
+   "name": "San Luis Rey River Trail",
+   "lat": 33.216,
+   "lng": -117.347,
+   "aliases": [
+    "san luis rey"
+   ]
+  }
+ ]
+}
