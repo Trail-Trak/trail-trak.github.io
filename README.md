@@ -75,18 +75,57 @@ read the public posts of other Business or Creator accounts. Most run clubs use
 one of those account types. Personal accounts can't be read; add those clubs'
 posts by hand in **Add a post**.
 
-1. Make your Instagram account a Business or Creator account and link it to a
-   Facebook Page.
-2. At developers.facebook.com, create an app (type Business) and add the
-   Instagram product ("Instagram API with Facebook Login").
-3. Create a user access token with `instagram_basic`, `pages_show_list`,
-   `pages_read_engagement` and `business_management`, then exchange it for a
-   long-lived token. Long-lived user tokens expire after about 60 days. A
-   System User token from Meta Business Settings doesn't expire.
-4. Find your Instagram user ID: `GET /me/accounts`, then
-   `GET /{page-id}?fields=instagram_business_account`.
-5. In the GitHub repo go to Settings → Secrets and variables → Actions and add
-   `IG_ACCESS_TOKEN` and `IG_USER_ID`.
+Business Discovery only works through **Instagram API with Facebook Login**,
+so the TrailTrak Instagram account needs a linked Facebook Page.
+
+1. **Instagram account.** In the Instagram app, go to Settings → Account type
+   and tools → Switch to professional account → **Business**.
+2. **Facebook Page.** Create a "TrailTrak" Facebook Page. In Instagram, go to
+   Edit profile → Page and connect it.
+3. **Business portfolio.** At business.facebook.com, create a business
+   portfolio and add the Page and the Instagram account to it.
+4. **Developer app.** At developers.facebook.com, create an app (type
+   **Business**) connected to that portfolio. Add the **Instagram** product
+   and choose "API setup with Facebook Login".
+5. **Permissions.** In Tools → Graph API Explorer, pick the app and generate a
+   user token with these permissions:
+   - `instagram_basic`, `instagram_manage_insights`, `pages_read_engagement`:
+     what Business Discovery needs
+   - `pages_show_list`: to find your Instagram user ID in step 6
+   - `business_management`: needed when your Page access comes through the
+     business portfolio
+6. **Instagram user ID.** In the Explorer, run
+   `me/accounts?fields=name,instagram_business_account`. The
+   `instagram_business_account.id` is your `IG_USER_ID`.
+7. **Test.** Run
+   `{IG_USER_ID}?fields=business_discovery.username(pbrunclub){media.limit(3){caption,timestamp}}`.
+   If captions come back, it works.
+8. **Token that doesn't expire.** Explorer and long-lived user tokens stop
+   working after about 60 days, and the refresh would quietly lose Instagram.
+   Instead, in Business settings → Users → **System users**, add an Admin
+   system user and assign it the app, the Page and the Instagram account. Then
+   click **Generate token** with the step 5 permissions and set the expiry to
+   **Never**.
+9. **GitHub secrets.** Save both values as repo secrets. Each command asks you
+   to paste the value, so it never appears in a file or chat:
+
+   ```bash
+   gh secret set IG_ACCESS_TOKEN --repo Trail-Trak/trail-trak.github.io
+   gh secret set IG_USER_ID --repo Trail-Trak/trail-trak.github.io
+   ```
+
+10. **Run it.** On the Actions tab, choose "Refresh club schedules", then
+    "Run workflow". The Clubs tab on the site then shows "✓ Instagram read"
+    for each club it could read, and "Instagram error" for clubs on personal
+    accounts.
+
+To test from your computer instead, set the two values in your shell and
+refresh one club:
+`ONLY=pb-run-club IG_ACCESS_TOKEN=… IG_USER_ID=… npm run refresh`.
+
+The app uses only your own token, so Meta's standard access should be enough.
+If Meta refuses the Business Discovery calls, submit the app for App Review and
+complete business verification.
 
 Until then the app still works from club websites, added posts and usual
 schedules. The Clubs tab says Instagram is off.

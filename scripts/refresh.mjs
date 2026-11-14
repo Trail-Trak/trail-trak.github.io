@@ -12,7 +12,8 @@
 //      falls back to the club's usual schedule for days with no fresh post.
 //
 // Environment:
-//   IG_ACCESS_TOKEN   long-lived Meta user access token (instagram_basic + pages_show_list + business_management)
+//   IG_ACCESS_TOKEN   Meta access token (a System User token that never expires is best) with instagram_basic,
+//                     instagram_manage_insights, pages_read_engagement, pages_show_list, business_management
 //   IG_USER_ID        the Instagram professional account ID that makes the Business Discovery calls
 //   IG_GRAPH_VERSION  optional, default v23.0
 //   NO_OCR=1          skip image OCR (faster local runs)
