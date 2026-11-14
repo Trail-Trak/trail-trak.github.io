@@ -1,5 +1,7 @@
 # TrailTrak
 
+Live site: https://trail-trak.github.io/ · Repo: https://github.com/Trail-Trak/trail-trak.github.io
+
 San Diego's run clubs on one map. TrailTrak shows every named trail, path and
 running route in San Diego County, colored by terrain:
 
@@ -139,6 +141,7 @@ San Diego. Base map © Esri, HERE, Garmin, OpenStreetMap contributors.
 
 ## Hosting
 
-Push this folder to a GitHub repo and turn on Pages (Settings → Pages → deploy
-from the `main` branch, root folder). The refresh Action commits to that same
-branch, so each refresh goes live automatically.
+GitHub Pages serves the site from the `main` branch of
+`Trail-Trak/trail-trak.github.io`. The refresh Action commits the new
+schedule to `main`, so each refresh goes live automatically. To refresh by hand,
+open the repo's Actions tab, choose "Refresh club schedules", then "Run workflow".
