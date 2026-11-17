@@ -1,21 +1,21 @@
 {
- "generatedAt": "2026-11-16T20:38:13.410Z",
- "today": "2026-11-16",
+ "generatedAt": "2026-11-17T08:46:25.585Z",
+ "today": "2026-11-17",
  "window": [
-  "2026-11-16",
   "2026-11-17",
   "2026-11-18",
   "2026-11-19",
   "2026-11-20",
   "2026-11-21",
-  "2026-11-22"
+  "2026-11-22",
+  "2026-11-23"
  ],
  "instagram": "off",
  "ocr": true,
  "clubs": [
   {
    "id": "tuesdays-waterfront",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -24,7 +24,7 @@
   },
   {
    "id": "sixrun9",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -33,7 +33,7 @@
   },
   {
    "id": "ob-run-club",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -42,7 +42,7 @@
   },
   {
    "id": "pb-run-club",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -51,7 +51,7 @@
   },
   {
    "id": "milestone",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -60,7 +60,7 @@
   },
   {
    "id": "seek-beer",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -69,7 +69,7 @@
   },
   {
    "id": "sd-trail-runners",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -78,7 +78,7 @@
   },
   {
    "id": "frwsd",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -87,7 +87,7 @@
   },
   {
    "id": "black-men-run",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -96,7 +96,7 @@
   },
   {
    "id": "santa-mujeres",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -105,7 +105,7 @@
   },
   {
    "id": "la-jolla-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -114,7 +114,7 @@
   },
   {
    "id": "lj-track-club",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -123,7 +123,7 @@
   },
   {
    "id": "lez-run",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -132,7 +132,7 @@
   },
   {
    "id": "adams-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -141,7 +141,7 @@
   },
   {
    "id": "november-project",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -150,7 +150,7 @@
   },
   {
    "id": "urban-trail-runners",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -159,7 +159,7 @@
   },
   {
    "id": "waterfront-social",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -168,7 +168,7 @@
   },
   {
    "id": "fleet-feet",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -177,7 +177,7 @@
   },
   {
    "id": "coastal-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -186,7 +186,7 @@
   },
   {
    "id": "encinitas-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -195,7 +195,7 @@
   },
   {
    "id": "trailblazers-nc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "skipped",
    "website": "ok",
    "posts": 0,
@@ -204,7 +204,7 @@
   },
   {
    "id": "carlsbad-coastal",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -213,7 +213,7 @@
   },
   {
    "id": "carlsbad-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -222,7 +222,7 @@
   },
   {
    "id": "south-o",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -231,7 +231,7 @@
   },
   {
    "id": "los-guapos",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -240,7 +240,7 @@
   },
   {
    "id": "nobody-cares",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -249,7 +249,7 @@
   },
   {
    "id": "chismosas",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -258,7 +258,7 @@
   },
   {
    "id": "ultrabuds",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -267,7 +267,7 @@
   },
   {
    "id": "sd-girls-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -276,7 +276,7 @@
   },
   {
    "id": "birch-road",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -285,7 +285,7 @@
   },
   {
    "id": "chula-vista-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -294,7 +294,7 @@
   },
   {
    "id": "run-dirty",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -303,7 +303,7 @@
   },
   {
    "id": "sby-trail",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -312,7 +312,7 @@
   },
   {
    "id": "sd-track-club",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -321,7 +321,7 @@
   },
   {
    "id": "body-art",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -330,7 +330,7 @@
   },
   {
    "id": "reluctant-runners",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -339,7 +339,7 @@
   },
   {
    "id": "i-hate-trail",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -348,7 +348,7 @@
   },
   {
    "id": "latinos-run",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -357,7 +357,7 @@
   },
   {
    "id": "allways-ready",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -366,7 +366,7 @@
   },
   {
    "id": "tecolote-trails-ales",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "skipped",
    "website": "skipped",
    "posts": 0,
@@ -375,7 +375,7 @@
   },
   {
    "id": "double-peak",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "skipped",
    "website": "skipped",
    "posts": 0,
@@ -384,7 +384,7 @@
   },
   {
    "id": "pacific-coast-rc",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "skipped",
    "website": "skipped",
    "posts": 0,
@@ -393,7 +393,7 @@
   },
   {
    "id": "sunday-runday",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -402,7 +402,7 @@
   },
   {
    "id": "long-run-sunday",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -411,7 +411,7 @@
   },
   {
    "id": "we-run-sd",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -420,7 +420,7 @@
   },
   {
    "id": "baddies",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -429,7 +429,7 @@
   },
   {
    "id": "mikkeller",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -438,7 +438,7 @@
   },
   {
    "id": "earthbound",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -447,7 +447,7 @@
   },
   {
    "id": "run-north-county",
-   "checked": "2026-11-16T20:38:13.410Z",
+   "checked": "2026-11-17T08:46:25.585Z",
    "instagram": "no token",
    "website": "error",
    "posts": 0,
@@ -458,232 +458,6 @@
   }
  ],
  "events": [
-  {
-   "date": "2026-11-16",
-   "time": "05:45",
-   "when": null,
-   "place": {
-    "name": "San Elijo Rd Dog Park",
-    "lat": 33.1108,
-    "lng": -117.1955,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "trail"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "double-peak",
-   "id": "double-peak-2026-11-16-05:45-58"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "06:29",
-   "when": null,
-   "place": {
-    "name": "Spreckels Organ Pavilion",
-    "lat": 32.7296,
-    "lng": -117.1505,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "workout"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "november-project",
-   "id": "november-project-2026-11-16-06:29-22"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Milestone Running Pacific Beach",
-    "lat": 32.7975,
-    "lng": -117.24,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": "3–5 mi",
-   "tags": [
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "milestone",
-   "id": "milestone-2026-11-16-18:00-6"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Seek Beer Co.",
-    "lat": 32.7495,
-    "lng": -117.126,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": "5K / 10K",
-   "tags": [
-    "beer",
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "seek-beer",
-   "id": "seek-beer-2026-11-16-18:00-8"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Kwaay Paay Trailhead",
-    "lat": 32.8128,
-    "lng": -117.0545,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "trail"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "sd-trail-runners",
-   "id": "sd-trail-runners-2026-11-16-18:00-9"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Kit Carson Park",
-    "lat": 33.0787,
-    "lng": -117.063,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": "ladies' run",
-   "tags": [
-    "social",
-    "women"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "nobody-cares",
-   "id": "nobody-cares-2026-11-16-18:00-39"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "18:30",
-   "when": null,
-   "place": {
-    "name": "Imperial Beach Pier",
-    "lat": 32.5794,
-    "lng": -117.1339,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "women"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "sd-girls-rc",
-   "id": "sd-girls-rc-2026-11-16-18:30-45"
-  },
-  {
-   "date": "2026-11-16",
-   "time": "18:30",
-   "when": null,
-   "place": {
-    "name": "Super Bloom Cafe, Mission Bay",
-    "lat": null,
-    "lng": null,
-    "kind": "text"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "body-art",
-   "id": "body-art-2026-11-16-18:30-52"
-  },
-  {
-   "date": "2026-11-16",
-   "time": null,
-   "when": "evening",
-   "place": {
-    "name": "Otay Ranch Town Center",
-    "lat": 32.6226,
-    "lng": -116.9673,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "birch-road",
-   "id": "birch-road-2026-11-16-evening-46"
-  },
   {
    "date": "2026-11-17",
    "time": "06:00",
@@ -957,7 +731,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "november-project",
-   "id": "november-project-2026-11-18-06:29-23"
+   "id": "november-project-2026-11-18-06:29-22"
   },
   {
    "date": "2026-11-18",
@@ -1008,7 +782,7 @@
    "tags": [
     "social"
    ],
-   "snippet": "Wed, Nov 18 · 5:45 PM PST \n Location visible to members \n 7 attendees \n This content is available only to members\n Thanksgiving Morning Run/Mission Beach to Pac",
+   "snippet": "Wed, Nov 18 · 5:45 PM PST \n Location visible to members \n 8 attendees \n This content is available only to members\n Thanksgiving Morning Run/Mission Beach to Pac",
    "source": {
     "type": "website",
     "url": "https://www.meetup.com/San-Diego-Reluctant-Runners",
@@ -2155,6 +1929,232 @@
    },
    "clubId": "we-run-sd",
    "id": "we-run-sd-2026-11-22-morning-64"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "05:45",
+   "when": null,
+   "place": {
+    "name": "San Elijo Rd Dog Park",
+    "lat": 33.1108,
+    "lng": -117.1955,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "trail"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "double-peak",
+   "id": "double-peak-2026-11-23-05:45-58"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "06:29",
+   "when": null,
+   "place": {
+    "name": "Spreckels Organ Pavilion",
+    "lat": 32.7296,
+    "lng": -117.1505,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "workout"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "november-project",
+   "id": "november-project-2026-11-23-06:29-23"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Milestone Running Pacific Beach",
+    "lat": 32.7975,
+    "lng": -117.24,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": "3–5 mi",
+   "tags": [
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "milestone",
+   "id": "milestone-2026-11-23-18:00-6"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Seek Beer Co.",
+    "lat": 32.7495,
+    "lng": -117.126,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": "5K / 10K",
+   "tags": [
+    "beer",
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "seek-beer",
+   "id": "seek-beer-2026-11-23-18:00-8"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Kwaay Paay Trailhead",
+    "lat": 32.8128,
+    "lng": -117.0545,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "trail"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "sd-trail-runners",
+   "id": "sd-trail-runners-2026-11-23-18:00-9"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Kit Carson Park",
+    "lat": 33.0787,
+    "lng": -117.063,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": "ladies' run",
+   "tags": [
+    "social",
+    "women"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "nobody-cares",
+   "id": "nobody-cares-2026-11-23-18:00-39"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:30",
+   "when": null,
+   "place": {
+    "name": "Imperial Beach Pier",
+    "lat": 32.5794,
+    "lng": -117.1339,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "women"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "sd-girls-rc",
+   "id": "sd-girls-rc-2026-11-23-18:30-45"
+  },
+  {
+   "date": "2026-11-23",
+   "time": "18:30",
+   "when": null,
+   "place": {
+    "name": "Super Bloom Cafe, Mission Bay",
+    "lat": null,
+    "lng": null,
+    "kind": "text"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "body-art",
+   "id": "body-art-2026-11-23-18:30-52"
+  },
+  {
+   "date": "2026-11-23",
+   "time": null,
+   "when": "evening",
+   "place": {
+    "name": "Otay Ranch Town Center",
+    "lat": 32.6226,
+    "lng": -116.9673,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "birch-road",
+   "id": "birch-road-2026-11-23-evening-46"
   }
  ]
 }
