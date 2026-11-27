@@ -1,21 +1,21 @@
 {
- "generatedAt": "2026-11-26T20:39:51.072Z",
- "today": "2026-11-26",
+ "generatedAt": "2026-11-27T08:51:40.931Z",
+ "today": "2026-11-27",
  "window": [
-  "2026-11-26",
   "2026-11-27",
   "2026-11-28",
   "2026-11-29",
   "2026-11-30",
   "2026-12-01",
-  "2026-12-02"
+  "2026-12-02",
+  "2026-12-03"
  ],
  "instagram": "off",
  "ocr": true,
  "clubs": [
   {
    "id": "tuesdays-waterfront",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -24,7 +24,7 @@
   },
   {
    "id": "sixrun9",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -33,7 +33,7 @@
   },
   {
    "id": "ob-run-club",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -42,7 +42,7 @@
   },
   {
    "id": "pb-run-club",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -51,7 +51,7 @@
   },
   {
    "id": "milestone",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -60,7 +60,7 @@
   },
   {
    "id": "seek-beer",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -69,7 +69,7 @@
   },
   {
    "id": "sd-trail-runners",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -78,7 +78,7 @@
   },
   {
    "id": "frwsd",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -87,7 +87,7 @@
   },
   {
    "id": "black-men-run",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -96,7 +96,7 @@
   },
   {
    "id": "santa-mujeres",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -105,7 +105,7 @@
   },
   {
    "id": "la-jolla-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -114,7 +114,7 @@
   },
   {
    "id": "lj-track-club",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -123,7 +123,7 @@
   },
   {
    "id": "lez-run",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -132,7 +132,7 @@
   },
   {
    "id": "adams-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -141,7 +141,7 @@
   },
   {
    "id": "november-project",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -150,7 +150,7 @@
   },
   {
    "id": "urban-trail-runners",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -159,7 +159,7 @@
   },
   {
    "id": "waterfront-social",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -168,7 +168,7 @@
   },
   {
    "id": "fleet-feet",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -177,7 +177,7 @@
   },
   {
    "id": "coastal-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -186,7 +186,7 @@
   },
   {
    "id": "encinitas-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -195,7 +195,7 @@
   },
   {
    "id": "trailblazers-nc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "skipped",
    "website": "ok",
    "posts": 0,
@@ -204,7 +204,7 @@
   },
   {
    "id": "carlsbad-coastal",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -213,7 +213,7 @@
   },
   {
    "id": "carlsbad-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -222,7 +222,7 @@
   },
   {
    "id": "south-o",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -231,7 +231,7 @@
   },
   {
    "id": "los-guapos",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -240,7 +240,7 @@
   },
   {
    "id": "nobody-cares",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -249,7 +249,7 @@
   },
   {
    "id": "chismosas",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -258,7 +258,7 @@
   },
   {
    "id": "ultrabuds",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -267,7 +267,7 @@
   },
   {
    "id": "sd-girls-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -276,7 +276,7 @@
   },
   {
    "id": "birch-road",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -285,7 +285,7 @@
   },
   {
    "id": "chula-vista-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -294,7 +294,7 @@
   },
   {
    "id": "run-dirty",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -303,7 +303,7 @@
   },
   {
    "id": "sby-trail",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -312,7 +312,7 @@
   },
   {
    "id": "sd-track-club",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -321,7 +321,7 @@
   },
   {
    "id": "body-art",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -330,16 +330,16 @@
   },
   {
    "id": "reluctant-runners",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
-   "found": 3,
+   "found": 2,
    "errors": []
   },
   {
    "id": "i-hate-trail",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -348,7 +348,7 @@
   },
   {
    "id": "latinos-run",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -357,7 +357,7 @@
   },
   {
    "id": "allways-ready",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "ok",
    "posts": 0,
@@ -366,7 +366,7 @@
   },
   {
    "id": "tecolote-trails-ales",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "skipped",
    "website": "skipped",
    "posts": 0,
@@ -375,7 +375,7 @@
   },
   {
    "id": "double-peak",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "skipped",
    "website": "skipped",
    "posts": 0,
@@ -384,7 +384,7 @@
   },
   {
    "id": "pacific-coast-rc",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "skipped",
    "website": "skipped",
    "posts": 0,
@@ -393,7 +393,7 @@
   },
   {
    "id": "sunday-runday",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -402,7 +402,7 @@
   },
   {
    "id": "long-run-sunday",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -411,7 +411,7 @@
   },
   {
    "id": "we-run-sd",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -420,7 +420,7 @@
   },
   {
    "id": "baddies",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -429,7 +429,7 @@
   },
   {
    "id": "mikkeller",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -438,7 +438,7 @@
   },
   {
    "id": "earthbound",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "skipped",
    "posts": 0,
@@ -447,7 +447,7 @@
   },
   {
    "id": "run-north-county",
-   "checked": "2026-11-26T20:39:51.072Z",
+   "checked": "2026-11-27T08:51:40.931Z",
    "instagram": "no token",
    "website": "error",
    "posts": 0,
@@ -458,289 +458,6 @@
   }
  ],
  "events": [
-  {
-   "date": "2026-11-26",
-   "time": "05:30",
-   "when": null,
-   "place": {
-    "name": "12006 Campo Rd, Spring Valley",
-    "lat": 32.737,
-    "lng": -116.948,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "trail"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "sd-trail-runners",
-   "id": "sd-trail-runners-2026-11-26-05:30-11"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "07:00",
-   "when": null,
-   "place": {
-    "name": "Vilis Health Bar",
-    "lat": 32.747,
-    "lng": -117.2477,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": "4–6 mi",
-   "tags": [
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "ob-run-club",
-   "id": "ob-run-club-2026-11-26-07:00-3"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "08:30",
-   "when": null,
-   "timeGuessed": false,
-   "place": null,
-   "trailIds": [],
-   "cancelled": false,
-   "confidence": "high",
-   "distance": null,
-   "tags": [
-    "social"
-   ],
-   "snippet": "Thu, Nov 26 · 8:30 AM PST \n Location visible to members \n 16 attendees \n This content is available only to members",
-   "source": {
-    "type": "website",
-    "url": "https://www.meetup.com/San-Diego-Reluctant-Runners",
-    "label": "Club website"
-   },
-   "clubId": "reluctant-runners",
-   "id": "reluctant-runners-2026-11-26-08:30-53"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "18:00",
-   "when": null,
-   "timeGuessed": false,
-   "place": {
-    "name": "Balboa Park",
-    "lat": 32.7313,
-    "lng": -117.1497,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "cancelled": false,
-   "confidence": "high",
-   "distance": "3–4 mi",
-   "tags": [
-    "lgbtq",
-    "walkers",
-    "social",
-    "trail",
-    "workout",
-    "long"
-   ],
-   "snippet": ", we meet at 6th Avenue & Laurel Street at 6 pm on Tuesday and Thursdays.  Free parking in Balboa Park begins at 6 pm.   \n Please check back here or our social ",
-   "source": {
-    "type": "website",
-    "url": "https://frwsd.org",
-    "label": "Club website"
-   },
-   "clubId": "frwsd",
-   "id": "frwsd-2026-11-26-18:00-14"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Liberty Station",
-    "lat": 32.7385,
-    "lng": -117.214,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "black-men-run",
-   "id": "black-men-run-2026-11-26-18:00-15"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Balboa Park",
-    "lat": 32.7313,
-    "lng": -117.1497,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": "1 mi & 5K",
-   "tags": [
-    "women",
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "santa-mujeres",
-   "id": "santa-mujeres-2026-11-26-18:00-17"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Thorn Brewing North Park",
-    "lat": 32.7426,
-    "lng": -117.1287,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": "3 mi run / 1.75 mi walk",
-   "tags": [
-    "lgbtq",
-    "women",
-    "walkers",
-    "dogs"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "lez-run",
-   "id": "lez-run-2026-11-26-18:00-20"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "18:00",
-   "when": null,
-   "place": {
-    "name": "Liberty Station",
-    "lat": 32.7385,
-    "lng": -117.214,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "baddies",
-   "id": "baddies-2026-11-26-18:00-65"
-  },
-  {
-   "date": "2026-11-26",
-   "time": "18:30",
-   "when": null,
-   "timeGuessed": false,
-   "place": {
-    "name": "Sweet Things",
-    "lat": 32.711,
-    "lng": -117.156,
-    "approx": true,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "cancelled": false,
-   "confidence": "high",
-   "distance": null,
-   "tags": [
-    "coffee"
-   ],
-   "snippet": "Thursdays\n6:30pm\n@ Sweet Things\n COMING SOON\n Quick Links\n ACCOUNT \n Events \n Let's Schedule \n Partnership \n Tiktok \n Instagram \n hello@beallwaysready.com \n © 2",
-   "source": {
-    "type": "website",
-    "url": "https://beallwaysready.com/run-club-after-miles-coffee/",
-    "label": "Club website"
-   },
-   "clubId": "allways-ready",
-   "id": "allways-ready-2026-11-26-18:30-56"
-  },
-  {
-   "date": "2026-11-26",
-   "time": null,
-   "when": "sunset",
-   "place": {
-    "name": "Shelter Island",
-    "lat": 32.7154,
-    "lng": -117.228,
-    "approx": false,
-    "kind": "place"
-   },
-   "trailIds": [],
-   "distance": null,
-   "tags": [
-    "beer",
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "waterfront-social",
-   "id": "waterfront-social-2026-11-26-sunset-25"
-  },
-  {
-   "date": "2026-11-26",
-   "time": null,
-   "when": "morning",
-   "place": null,
-   "trailIds": [],
-   "distance": "1.5–6 mi trail or road",
-   "tags": [
-    "trail",
-    "social"
-   ],
-   "cancelled": false,
-   "confidence": "usual",
-   "source": {
-    "type": "usual",
-    "label": "Usual schedule from run club guides"
-   },
-   "clubId": "chismosas",
-   "id": "chismosas-2026-11-26-morning-40"
-  },
   {
    "date": "2026-11-27",
    "time": "05:20",
@@ -936,7 +653,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "pacific-coast-rc",
-   "id": "pacific-coast-rc-2026-11-28-07:00-60"
+   "id": "pacific-coast-rc-2026-11-28-07:00-59"
   },
   {
    "date": "2026-11-28",
@@ -1010,7 +727,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "baddies",
-   "id": "baddies-2026-11-28-08:00-66"
+   "id": "baddies-2026-11-28-08:00-65"
   },
   {
    "date": "2026-11-28",
@@ -1136,7 +853,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "chismosas",
-   "id": "chismosas-2026-11-28-morning-41"
+   "id": "chismosas-2026-11-28-morning-40"
   },
   {
    "date": "2026-11-28",
@@ -1180,7 +897,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "baddies",
-   "id": "baddies-2026-11-29-07:00-67"
+   "id": "baddies-2026-11-29-07:00-66"
   },
   {
    "date": "2026-11-29",
@@ -1250,7 +967,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "sunday-runday",
-   "id": "sunday-runday-2026-11-29-08:30-61"
+   "id": "sunday-runday-2026-11-29-08:30-60"
   },
   {
    "date": "2026-11-29",
@@ -1269,7 +986,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "long-run-sunday",
-   "id": "long-run-sunday-2026-11-29-morning-62"
+   "id": "long-run-sunday-2026-11-29-morning-61"
   },
   {
    "date": "2026-11-29",
@@ -1288,7 +1005,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "we-run-sd",
-   "id": "we-run-sd-2026-11-29-morning-64"
+   "id": "we-run-sd-2026-11-29-morning-63"
   },
   {
    "date": "2026-11-30",
@@ -1313,7 +1030,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "double-peak",
-   "id": "double-peak-2026-11-30-05:45-58"
+   "id": "double-peak-2026-11-30-05:45-57"
   },
   {
    "date": "2026-11-30",
@@ -1542,7 +1259,7 @@
     "label": "Club website"
    },
    "clubId": "allways-ready",
-   "id": "allways-ready-2026-12-01-06:00-55"
+   "id": "allways-ready-2026-12-01-06:00-54"
   },
   {
    "date": "2026-12-01",
@@ -2011,7 +1728,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "i-hate-trail",
-   "id": "i-hate-trail-2026-12-02-18:00-54"
+   "id": "i-hate-trail-2026-12-02-18:00-53"
   },
   {
    "date": "2026-12-02",
@@ -2037,7 +1754,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "tecolote-trails-ales",
-   "id": "tecolote-trails-ales-2026-12-02-18:00-57"
+   "id": "tecolote-trails-ales-2026-12-02-18:00-56"
   },
   {
    "date": "2026-12-02",
@@ -2091,7 +1808,7 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "pacific-coast-rc",
-   "id": "pacific-coast-rc-2026-12-02-18:30-59"
+   "id": "pacific-coast-rc-2026-12-02-18:30-58"
   },
   {
    "date": "2026-12-02",
@@ -2135,7 +1852,268 @@
     "label": "Usual schedule from run club guides"
    },
    "clubId": "we-run-sd",
-   "id": "we-run-sd-2026-12-02-evening-63"
+   "id": "we-run-sd-2026-12-02-evening-62"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "05:30",
+   "when": null,
+   "place": {
+    "name": "12006 Campo Rd, Spring Valley",
+    "lat": 32.737,
+    "lng": -116.948,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "trail"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "sd-trail-runners",
+   "id": "sd-trail-runners-2026-12-03-05:30-11"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "07:00",
+   "when": null,
+   "place": {
+    "name": "Vilis Health Bar",
+    "lat": 32.747,
+    "lng": -117.2477,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": "4–6 mi",
+   "tags": [
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "ob-run-club",
+   "id": "ob-run-club-2026-12-03-07:00-3"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:00",
+   "when": null,
+   "timeGuessed": false,
+   "place": {
+    "name": "Balboa Park",
+    "lat": 32.7313,
+    "lng": -117.1497,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "cancelled": false,
+   "confidence": "high",
+   "distance": "3–4 mi",
+   "tags": [
+    "lgbtq",
+    "walkers",
+    "social",
+    "trail",
+    "workout",
+    "long"
+   ],
+   "snippet": ", we meet at 6th Avenue & Laurel Street at 6 pm on Tuesday and Thursdays.  Free parking in Balboa Park begins at 6 pm.   \n Please check back here or our social ",
+   "source": {
+    "type": "website",
+    "url": "https://frwsd.org",
+    "label": "Club website"
+   },
+   "clubId": "frwsd",
+   "id": "frwsd-2026-12-03-18:00-14"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Liberty Station",
+    "lat": 32.7385,
+    "lng": -117.214,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "black-men-run",
+   "id": "black-men-run-2026-12-03-18:00-15"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Balboa Park",
+    "lat": 32.7313,
+    "lng": -117.1497,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": "1 mi & 5K",
+   "tags": [
+    "women",
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "santa-mujeres",
+   "id": "santa-mujeres-2026-12-03-18:00-17"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Thorn Brewing North Park",
+    "lat": 32.7426,
+    "lng": -117.1287,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": "3 mi run / 1.75 mi walk",
+   "tags": [
+    "lgbtq",
+    "women",
+    "walkers",
+    "dogs"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "lez-run",
+   "id": "lez-run-2026-12-03-18:00-20"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:00",
+   "when": null,
+   "place": {
+    "name": "Liberty Station",
+    "lat": 32.7385,
+    "lng": -117.214,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "baddies",
+   "id": "baddies-2026-12-03-18:00-64"
+  },
+  {
+   "date": "2026-12-03",
+   "time": "18:30",
+   "when": null,
+   "timeGuessed": false,
+   "place": {
+    "name": "Sweet Things",
+    "lat": 32.711,
+    "lng": -117.156,
+    "approx": true,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "cancelled": false,
+   "confidence": "high",
+   "distance": null,
+   "tags": [
+    "coffee"
+   ],
+   "snippet": "Thursdays\n6:30pm\n@ Sweet Things\n COMING SOON\n Quick Links\n ACCOUNT \n Events \n Let's Schedule \n Partnership \n Tiktok \n Instagram \n hello@beallwaysready.com \n © 2",
+   "source": {
+    "type": "website",
+    "url": "https://beallwaysready.com/run-club-after-miles-coffee/",
+    "label": "Club website"
+   },
+   "clubId": "allways-ready",
+   "id": "allways-ready-2026-12-03-18:30-55"
+  },
+  {
+   "date": "2026-12-03",
+   "time": null,
+   "when": "sunset",
+   "place": {
+    "name": "Shelter Island",
+    "lat": 32.7154,
+    "lng": -117.228,
+    "approx": false,
+    "kind": "place"
+   },
+   "trailIds": [],
+   "distance": null,
+   "tags": [
+    "beer",
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "waterfront-social",
+   "id": "waterfront-social-2026-12-03-sunset-25"
+  },
+  {
+   "date": "2026-12-03",
+   "time": null,
+   "when": "morning",
+   "place": null,
+   "trailIds": [],
+   "distance": "1.5–6 mi trail or road",
+   "tags": [
+    "trail",
+    "social"
+   ],
+   "cancelled": false,
+   "confidence": "usual",
+   "source": {
+    "type": "usual",
+    "label": "Usual schedule from run club guides"
+   },
+   "clubId": "chismosas",
+   "id": "chismosas-2026-12-03-morning-41"
   }
  ]
 }
